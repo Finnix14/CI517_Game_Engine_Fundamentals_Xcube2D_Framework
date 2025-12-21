@@ -20,5 +20,37 @@
 *.out
 *.app
 
-# build dir
+# Visual Studio / MSVC
+.vs/
+*.VC.db
+*.VC.opendb
+*.ipch
+*.pdb
+*.ilk
+*.exp
+
+# Build / Binary Output
+Debug/
+Release/
+x64/
+x86/
+bin/
 build/
+out/
+obj/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.cmake
+
+# Logs / Temp
+*.log
+*.tmp
+
+# OS Junk
+Thumbs.db
+Desktop.ini
+.DS_Store
