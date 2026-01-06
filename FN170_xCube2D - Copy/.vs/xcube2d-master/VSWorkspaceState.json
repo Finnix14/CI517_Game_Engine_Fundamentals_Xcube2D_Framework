@@ -1,0 +1,8 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "Local Machine": [
+      "xcube2d-master\\out\\build\\x64-Debug",
+      "xcube2d-master\\out\\install\\x64-Debug"
+    ]
+  }
+}

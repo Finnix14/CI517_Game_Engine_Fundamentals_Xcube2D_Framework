@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\xcube2d-master",
+    "\\xcube2d-master\\cmake",
+    "\\xcube2d-master\\libs",
+    "\\xcube2d-master\\res\\fonts",
+    "\\xcube2d-master\\src",
+    "\\xcube2d-master\\src\\demo",
+    "\\xcube2d-master\\src\\engine"
+  ],
+  "SelectedNode": "\\xcube2d-master\\src\\demo\\Main.cpp",
+  "PreviewInSolutionExplorer": false
+}
